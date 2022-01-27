@@ -1,0 +1,39 @@
+VERSION 1/27/2022 9:13:02 AM
+FIG #E:\Anik\4.2 Semester\Design and Testing of VLSI Lab(CSE458)\lab2.MSK
+BB(-18,-10,36,54)
+SIMU #5.00
+REC(-18,7,54,17,NW)
+REC(1,14,29,4,DP)
+REC(-12,14,11,4,DP)
+REC(1,-3,29,4,DN)
+REC(-12,-3,11,4,DN)
+REC(-8,15,2,2,CO)
+REC(7,15,2,2,CO)
+REC(-8,-2,2,2,CO)
+REC(7,-2,2,2,CO)
+REC(-1,-6,2,27,PO)
+REC(6,14,4,4,ME)
+REC(-9,-3,4,4,ME)
+REC(6,1,3,5,ME)
+REC(-12,23,42,3,ME)
+REC(-9,14,4,9,ME)
+REC(-8,-7,3,4,ME)
+REC(6,9,3,5,ME)
+REC(-12,-10,42,3,ME)
+REC(6,6,24,3,ME)
+REC(6,-3,4,4,ME)
+REC(-1,14,2,4,DP)
+REC(-1,-3,2,4,DN)
+TITLE 15 54  #Vdd
+$1 1000 0 
+TITLE 22 -7  #Vss
+$0 1000 0 
+TITLE 21 25  #Vdd
+$1 1000 0 
+TITLE 22 7  #output
+$v 1000 0 
+TITLE 0 10  #input
+$c 1000 0 0.2250 0.2500 0.4750 0.5000 
+TITLE 31 21  #Vdd
+$1 1000 0 
+FFIG E:\Anik\4.2 Semester\Design and Testing of VLSI Lab(CSE458)\lab2.MSK
